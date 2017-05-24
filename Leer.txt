@@ -1,0 +1,25 @@
+------------------------------
+
+	CHIMPA V 1.01
+   (ABM de albums de fotos)
+------------------------------
+
+Creado por Damián Cipolat @damcipolat damian.cipolat@gmail.com
+
+
+
+
+Requerimientos:
+	- Base de datos MYSQL
+	- Dar permisos de escritura a la carpeta fotos.
+
+Instalación:
+	- Copiar todos los archivos y carpetas al directorio del servidor.
+	- En el archivo sql esta el codigo para construir las tablas.
+	- En el archivo libs/Config.php se deben cambiar el usuario, contraseña, host y bd que se usara.
+
+Si todo lo anterior se hace correctamente, el script funciona!
+
+Que lo disfruten!
+
+Saludos!
